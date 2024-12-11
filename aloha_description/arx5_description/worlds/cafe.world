@@ -11,9 +11,15 @@
       <uri>model://ground_plane</uri>
     </include>
 
-    <!-- A ground plane -->
+    <!-- cafe model -->
     <include>
       <uri>model://cafe</uri>
+    </include>
+
+    <!-- towel model -->
+    <include>
+      <uri>https://fuel.gazebosim.org/1.0/GoogleResearch/models/Now_Designs_Dish_Towel_Mojave_18_x_28</uri>
+      <pose>-4.1 -10.15 5.1 0 0 0</pose>
     </include>
 
     <!-- Physics -->
